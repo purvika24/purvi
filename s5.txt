@@ -1,2 +1,3 @@
 1st line is committed under this
 2nd line is committed under this
+3rd line is committed 
